@@ -6,6 +6,9 @@
 June 26th – 28th , 2020
 
 
+CFT_1     フィールドサーバ４とフィールドサーバ５とフィールドサーバ６
+
+
 ![図1](https://user-images.githubusercontent.com/34154851/106847581-8a19d680-66f2-11eb-8cf6-f3240735286d.png)
 
 
