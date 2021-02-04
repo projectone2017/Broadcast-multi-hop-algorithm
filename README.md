@@ -14,3 +14,6 @@ cft_2のプログラム     フィールドサーバ１とフィールドサー�
 
 
 ![図2](https://user-images.githubusercontent.com/34154851/106847595-8ede8a80-66f2-11eb-9218-0098058e76c5.png)
+
+
+![図3](https://user-images.githubusercontent.com/34154851/106849696-84be8b00-66f6-11eb-8763-77f688a4300b.png)
